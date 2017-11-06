@@ -166,7 +166,7 @@ public class SimpleClans extends JavaPlugin {
     }
 
     public List<String> getMessages() {
-        return messages;
+        return this.messages;
     }
 
     /**
